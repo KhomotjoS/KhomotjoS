@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhomotjoS
-- 👀 I’m interested in c# sql and python 
-- 🌱 I’m currently learning database
-- 💞️ I’m looking to collaborate on sql c#
+- 👀 I’m interested in data analyst
+- 🌱 I’m currently learning database,Azure data fundamentals
+- 💞️ I’m looking to collaborate on sql and Azure
 - 📫 How to reach me Khomotjoseoloane3@gmail.com 
 
 <!---
